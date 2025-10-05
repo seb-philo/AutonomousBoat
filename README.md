@@ -1,7 +1,7 @@
 # Autonomous Boat Electronic Design 
 
 ## Summary
-This project involved the electronic design and code, as well as LabVIEW control development, of an autonomous boat.
+This project involved the electronic design and code, as well as LabVIEW control development, of an autonomous boat, achieving 72%.
 
 ## Electronics and Code
 This boat features a range of sensors including ultrasonics for collision avoidance and magnometer for bearings, to link to motors which can be manually controlled or automatically driven. The software was developed with C++.
